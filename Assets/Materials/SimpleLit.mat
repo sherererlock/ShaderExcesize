@@ -21,7 +21,7 @@ Material:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: SimpleLit
-  m_Shader: {fileID: 4800000, guid: b15a6aa218abff44ca8480403e9d823f, type: 3}
+  m_Shader: {fileID: 4800000, guid: 545ec6740d00bbe46aeef5daf07f4f05, type: 3}
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
   m_ValidKeywords: []
